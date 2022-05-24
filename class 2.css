@@ -1,0 +1,27 @@
+.container{ 
+    height:1000px;
+    width: 100%;
+    border: 5px solid purple;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+    flex-wrap: wrap;
+    column-gap: 20px;
+    align-items: center;
+}
+
+.child{
+    height:200px;
+    width: 200px;
+    border: 5px solid purple;
+    display: flex;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fdesktop-computer-gm862739260-143196077&psig=AOvVaw2r6m1_H6FjFoypvUtCW0Ac&ust=1653440989009000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCZqOj59vcCFQAAAAAdAAAAABAO');
+  
+}
+.child1{
+    height:200px;
+    width: 200px;
+    border: 5px solid purple;
+    display: flex;
+    background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fvector%2Fdesktop-computer-gm862739260-143196077&psig=AOvVaw2r6m1_H6FjFoypvUtCW0Ac&ust=1653440989009000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCZqOj59vcCFQAAAAAdAAAAABAO');
+}

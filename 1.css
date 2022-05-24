@@ -1,0 +1,47 @@
+.container{
+    
+    background-color: #25384B;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    padding: 100px;
+    width: 70%;
+   
+
+
+    
+}
+
+.left{
+  height: 400px;
+  width: 70%;
+  background-color: orangered;
+  
+ 
+}
+
+.right{
+    height: 400px;
+    width: 20%;
+    background-color:  orange;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+
+.child1{
+    height: 150px;
+    width: 80%;
+    background-color: teal;
+    
+   
+}
+.child2{
+    height: 150px;
+    width: 80%;
+    background-color: aliceblue;
+   
+}
